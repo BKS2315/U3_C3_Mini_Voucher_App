@@ -1,0 +1,30 @@
+#form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 420px;
+    gap: 30px;
+    border: 1px solid;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 33%;
+    margin-top: 5%;
+    background-color: antiquewhite;
+    border-radius: 10px;
+
+  }
+  #form input{
+    width: 80%;
+    height: 25px;
+    border: 1px solid grey;
+    border-radius: 5px;
+  }
+  #navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: aquamarine;
+  }
+  
